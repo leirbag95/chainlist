@@ -5758,6 +5758,93 @@ export const extraRpcs = {
   1946: {
     rpcs: ["https://rpc.minato.soneium.org/"],
   },
+  1829: {
+    rpcs: ["https://rpc.playblock.io", "wss://ws.playblock.io"],
+  },
+  9122: {
+    rpcs: ["https://testnet.gr1d.network", "wss://ws-testnet.gr1d.network"]
+  },
+  123420000558: {
+    rpcs: ["https://rpc.pin.t.raas.gelato.cloud", "wss://ws.pin.t.raas.gelato.cloud"]
+  },
+  560098: {
+    rpcs: ["https://rpc.novastro-testnet.gelato.digital", "wss://ws.novastro-testnet.gelato.digital"]
+  },
+  241120: {
+    rpcs: ["https://rpc.anomaly-andromeda.anomalygames.io", "wss://ws.anomaly-andromeda.anomalygames.io"]
+  },
+  98600: {
+    rpcs: ["https://rpc.op-eigenda-cherry.gelato.digital", "wss://ws.op-eigenda-cherry.gelato.digital"]
+  },
+  1833: {
+    rpcs: ["https://rpc.verify-testnet.gelato.digital", "wss://ws.verify-testnet.gelato.digital"]
+  }, 
+  89228: {
+    rpcs: ["https://rpc.op-dummy-testnet.gelato.digital", "wss://ws.op-dummy-testnet.gelato.digital"]
+  },
+  123420000015: {
+    rpcs: ["https://rpc-123420000015.raas-testnet.gelato.digital", "wss://ws-123420000015.raas-testnet.gelato.digital"]
+  },
+  10888: {
+    rpcs: ["https://rpc-testnet.gameswift.io", "wss://ws-testnet.gameswift.io"]
+  },
+  123420000159: {
+    rpcs: ["https://rpc-123420000159.raas-testnet.gelato.digital", "wss://ws-123420000159.raas-testnet.gelato.digital"]
+  },
+  16182: {
+    rpcs: ["https://testnet-rpc.eh-dev.app", "wss://testnet-ws.eh-dev.app"]
+  },
+  89346162: {
+    rpcs: ["https://rpc.reya-cronos.gelato.digital", "wss://ws.reya-cronos.gelato.digital"]
+  },
+  123420000207: {
+    rpcs: ["https://rpc-123420000207.raas-testnet.gelato.digital", "wss://ws-123420000207.raas-testnet.gelato.digital"]
+  },
+  34949059: {
+    rpcs: ["https://rpc.citro-testnet.t.raas.gelato.cloud", "wss://ws.citro-testnet.t.raas.gelato.cloud"]
+  },
+  123420000248: {
+    rpcs: ["https://rpc-123420000248.raas-testnet.gelato.digital", "wss://ws-123420000248.raas-testnet.gelato.digital"]
+  },
+  123420000352: {
+    rpcs: ["https://rpc-123420000352.raas-testnet.gelato.digital", "wss://ws-123420000352.raas-testnet.gelato.digital"]
+  },
+  123420000406: {
+    rpcs: ["https://rpc-123420000406.raas-testnet.gelato.digital", "wss://ws-123420000406.raas-testnet.gelato.digital"]
+  },
+  123420000409: {
+    rpcs: ["https://rpc-123420000409.raas-testnet.gelato.digital", "wss://ws-123420000409.raas-testnet.gelato.digital"]
+  },
+  69658185: {
+    rpcs: ["https://rpc.bonito-testnet.t.raas.gelato.cloud", "wss://ws.bonito-testnet.t.raas.gelato.cloud"]
+  },
+  123420000418: {
+    rpcs: ['https://rpc-123420000418.raas-testnet.gelato.digital', 'wss://ws-123420000418.raas-testnet.gelato.digital']
+  },
+  123420000534: {
+    rpcs: ["https://rpc.eva-intelligence.t.raas.gelato.cloud", "wss://ws.eva-intelligence.t.raas.gelato.cloud"]
+  },
+  123420000520: {
+    rpcs: ['https://rpc.lydia-testnet.t.raas.gelato.cloud', "wss://ws.lydia-testnet.t.raas.gelato.cloud"]
+  },
+  763373: {
+    rpcs: ["https://rpc-gel-sepolia.inkonchain.com", "wss://ws-gel-sepolia.inkonchain.com"]
+  },
+  123420000549: {
+    rpcs: ["https://rpc.blockworks-chain.t.raas.gelato.cloud", "wss://ws.blockworks-chain.t.raas.gelato.cloud"]
+  }, 
+  123420000552: {
+    rpcs: ["https://rpc.marschain.t.raas.gelato.cloud", "wss://ws.marschain.t.raas.gelato.cloud"]
+  },
+  123420000570: {
+    rpcs: ["https://rpc.key-blow-forty.t.raas.gelato.cloud", "wss://ws.key-blow-forty.t.raas.gelato.cloud"]
+  },
+  123420000586: {
+    rpcs: ["https://rpc.sivo-defi-testnet.t.raas.gelato.cloud", "wss://ws.sivo-defi-testnet.t.raas.gelato.cloud"]
+  },
+  123420000588: {
+    rpcs: ["https://rpc.volmex.t.raas.gelato.cloud", "wss://ws.volmex.t.raas.gelato.cloud"],
+  },
   41455: {
     rpcs: [
       "https://rpc.alephzero.raas.gelato.cloud",
